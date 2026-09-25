@@ -1,0 +1,41 @@
+{
+  "source": "https://scholar.google.com/citations?user=lI38UZoAAAAJ&hl=en&pagesize=100",
+  "updated_at": "2026-09-25T17:54:45.071435+00:00",
+  "publications": [
+    {
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lI38UZoAAAAJ&pagesize=100&citation_for_view=lI38UZoAAAAJ:9yKSN-GCB0IC",
+      "title": "Industrially fabricated single-electron quantum dots in Si/Si—Ge heterostructures",
+      "citations": 26,
+      "year": "2025",
+      "venue": "IEEE EDL"
+    },
+    {
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lI38UZoAAAAJ&pagesize=100&citation_for_view=lI38UZoAAAAJ:u5HHmVD_uO8C",
+      "title": "Fabrication of gate electrodes for scalable quantum computing using CMOS industry compatible e-beam lithography and numerical simulation of the resulting quantum device",
+      "citations": 4,
+      "year": "2023",
+      "venue": "Proc. SPIE"
+    },
+    {
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lI38UZoAAAAJ&pagesize=100&citation_for_view=lI38UZoAAAAJ:Tyk-4Ss8FVUC",
+      "title": "Fabrication of single-electron shuttling channels in a silicon CMOS fab using high-throughput electron beam lithography",
+      "citations": 3,
+      "year": "2025",
+      "venue": "Proc. SPIE"
+    },
+    {
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lI38UZoAAAAJ&pagesize=100&citation_for_view=lI38UZoAAAAJ:d1gkVwhDpl0C",
+      "title": "200 mm Wafer Level Characterization at 2 K of Si/SiGe Field-Effect Transistors",
+      "citations": 2,
+      "year": "2024",
+      "venue": "ECS Trans."
+    },
+    {
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lI38UZoAAAAJ&pagesize=100&citation_for_view=lI38UZoAAAAJ:YsMSGLbcyi4C",
+      "title": "High-fidelity single-electron shuttling in industrially fabricated spin qubit devices",
+      "citations": 1,
+      "year": "2025",
+      "venue": "IEDM"
+    }
+  ]
+}
