@@ -37,6 +37,7 @@ pip install microcubed
 ## Selected work
 
 - [MicroCubed](https://github.com/newton-per-sqm/microcubed) — analytical 3D stray fields for cuboid micromagnet arrangements
+- [Scientific Python project template](https://github.com/newton-per-sqm/scientific-python-template) — a tested, reproducible starting point using uv, NumPy, pytest, Ruff, and GitHub Actions
 - [matlab-waferplot](https://github.com/newton-per-sqm/matlab-waferplot) — a wafer-map class for MATLAB
 - [Public gists](https://gist.github.com/newton-per-sqm) — small configurations and reusable technical notes
 
